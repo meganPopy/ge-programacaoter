@@ -26,30 +26,20 @@ strong {
 .itens{
 	font-style: italic;
 	font-size: 20px;
-}
+	}
+	
 #salgado2{
-	width: 50%;
-	padding: 10px;
-	margin: 10px;
-	display: inline-block;
+	width: 48%;
+	padding: 2px;
+	margin: 2px;
 		}
+
 #cerveja{
-	width: 50%;
-	padding: 10px;
-	margin: 10px;
-	display: block;
-	}
+	width: 45%;
+	padding: 2px;
+	margin: 2px;
+		}
 
-ul{
-		display: block;
-	}
-
-.imagemcerveja{
-    width: 40%;
-		display: inline-block;
-}
-
-.imagemsalgado2{
-	width: 40%;
+.imagem li{
 	display: inline-block;
 }
